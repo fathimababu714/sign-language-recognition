@@ -9,6 +9,8 @@ A deep learning-based project that recognizes sign language gestures using Convo
   
 # Dataset
 - Sign Language MNIST
+- ## 🔗 Dataset Link
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 #Results
 - CNN Accuracy: ~93%
